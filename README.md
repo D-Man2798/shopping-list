@@ -1,1 +1,1 @@
-Basic shopping list
+Basic shopping list using javascript
